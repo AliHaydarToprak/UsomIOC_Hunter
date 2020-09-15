@@ -1,6 +1,6 @@
 # USOM IOC Hunter
 
-![USOM IOC Hunter](ScreenShots/Capture.PNG)
+![USOM IOC Hunter](Capture.PNG)
 
 ### Description
 
